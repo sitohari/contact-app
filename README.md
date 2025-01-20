@@ -1,8 +1,28 @@
-# React + Vite
+# Aplikasi Daftar Kontak
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplikasi Daftar Kontak adalah proyek sederhana yang dibuat untuk mempelajari dan mempraktikkan penggunaan React. Aplikasi ini memungkinkan pengguna untuk:
 
-Currently, two official plugins are available:
+- Menampilkan daftar kontak.
+- Menambahkan kontak baru.
+- Menghapus kontak dari daftar.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Proyek ini dirancang sebagai latihan untuk meningkatkan pemahaman tentang React dan keterampilan pemrograman secara umum.
+
+## Pendahuluan
+
+Belajar pemrograman, terutama React, dapat terasa sulit jika hanya mengandalkan teori. Dengan melakukan praktik langsung, kita dapat lebih memahami aturan penulisan kode dan meningkatkan kemampuan logika untuk memecahkan masalah. Sama seperti seorang pilot yang membutuhkan jam terbang tinggi untuk menjadi andal, seorang programmer juga perlu banyak menulis kode untuk mengasah keahliannya.
+
+Proyek ini bertujuan untuk memberikan pengalaman praktis dalam membangun aplikasi sederhana menggunakan React.
+
+## Fitur
+
+- **Menampilkan daftar kontak**: Menampilkan semua kontak yang tersedia dari data awal.
+- **Menambahkan kontak baru**: Formulir sederhana untuk menambahkan informasi kontak baru.
+- **Menghapus kontak**: Menghapus kontak dari daftar dengan mudah.
+
+## Teknologi yang Digunakan
+
+- [React](https://reactjs.org/): Library JavaScript untuk membangun antarmuka pengguna.
+- HTML, CSS: Untuk struktur dan gaya aplikasi.
+- JavaScript: Untuk logika dan interaksi aplikasi.
+  
